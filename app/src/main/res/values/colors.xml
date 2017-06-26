@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b227da</color>
+    <color name="colorDateNavigator">#f9f7f7</color>
+    <color name="colorPrimaryDark">#b227da</color>
+    <color name="colorAccent">#ff4059</color>
+    <color name="from">#000000</color>
+    <color name="subject">#111111</color>
+    <color name="timestamp">#4285f4</color>
+    <color name="message">#7a7a7a</color>
+    <color name="icon_tint_normal">#5e005e</color>
+    <color name="icon_tint_selected">#fed776</color>
+    <color name="row_activated">#ffffff</color>
+    <color name="bg_action_mode">#757575</color>
+    <color name="bg_circle_default">#97b227da</color>
+    <color name="module">#ffffff</color>
+    <color name="toolbar_date_text">#696868</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorFailedLoginMessage">#c10505</color>
+    <color name="dialog_title">#4f4451</color>
+    <color name="dialog_btn">#d0d500ff</color>
+    <color name="statusBarColor">#55d500ff</color>
+    <color name="tv_login">#5c302d30</color>
+</resources>

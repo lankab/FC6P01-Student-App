@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:mContext="tech.lankabentara.FC6P01_student.activity.MainActivity">
+    <item
+        android:id="@+id/action_date_picker"
+        android:icon="@drawable/ic_today_black_24dp"
+        android:orderInCategory="100"
+        android:title="date_picker"
+        app:showAsAction="always" />
+</menu>

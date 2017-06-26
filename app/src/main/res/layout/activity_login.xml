@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    android:background="@drawable/blurbg">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:layout_height="0dp"
+        android:layout_marginTop="42dp">
+
+        <ImageView
+            android:layout_width="256dp"
+            android:src="@drawable/logo_fc6p01"
+            android:layout_height="256dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_weight="7"
+        android:weightSum="7"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="10"
+            android:gravity="center"
+            android:layout_height="0dp"
+            android:layout_marginTop="40dp">
+
+
+
+
+            <TextView
+                android:id="@+id/usernameicon"
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:textColor="#ffffff"
+                android:text="f"
+                android:layout_marginLeft="15dp"
+                android:gravity="center"
+                android:layout_height="match_parent" />
+
+            <EditText
+                android:id="@+id/usernameedt"
+                android:layout_width="0dp"
+                android:layout_weight="8"
+                android:textColor="@color/tv_login"
+                android:hint="Username"
+                android:background="@null"
+                android:textColorHint="#ffffff"
+                android:gravity="center|left"
+                android:layout_height="match_parent"
+                />
+
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:background="#8d8e92"
+            android:layout_height="0.5dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="10"
+            android:gravity="center"
+            android:layout_height="0dp">
+
+
+
+
+            <TextView
+                android:id="@+id/passwordicon"
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:textColor="#ffffff"
+                android:text="f"
+                android:layout_marginLeft="15dp"
+                android:gravity="center"
+                android:layout_height="match_parent" />
+
+            <EditText
+                android:id="@+id/passwordedt"
+                android:layout_width="0dp"
+                android:layout_weight="8"
+                android:textColor="@color/tv_login"
+                android:hint="Password"
+                android:background="@null"
+                android:textColorHint="#ffffff"
+                android:gravity="center|left"
+                android:layout_height="match_parent"
+                android:inputType="textPassword"/>
+
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:background="#8d8e92"
+            android:layout_height="0.5dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_weight="0.5"
+            android:orientation="horizontal"
+            android:weightSum="10"
+            android:gravity="center"
+            android:layout_height="25dp"></LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/signinLayout"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:background="#55000000"
+            android:orientation="horizontal"
+            android:weightSum="10"
+            android:gravity="center"
+            android:layout_height="10dp"
+            android:layout_marginTop="-25dp"
+            android:clickable="true">
+
+
+            <TextView
+                android:id="@+id/signinbtn"
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:text="LOGIN"
+                android:textColor="#ffffff"
+                android:textSize="15dp"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="10"
+        android:gravity="center"
+        android:layout_height="0dp">
+
+        <TextView
+            android:id="@+id/notRegistered"
+            android:layout_width="match_parent"
+            android:textColor="#ffffff"
+            android:text="Don't have login credentials yet?"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            android:paddingTop="0dp"/>
+
+    </LinearLayout>
+</LinearLayout>
