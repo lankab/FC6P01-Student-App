@@ -1,4 +1,3 @@
-Inline-style: 
 ![alt text](https://github.com/lankab/FC6P01-student-app/blob/master/FC6P01_student_app.gif "Functionalities demo")
 
 # Introduction
