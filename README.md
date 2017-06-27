@@ -1,5 +1,6 @@
-# Introduction
-https://www.youtube.com/watch?v=2skFCzy_1wc
+# Demo
+[View quick visual demo](https://www.youtube.com/watch?v=2skFCzy_1wc)
+
 # Introduction
 This project is one of two Android apps developed as part of my final project. This app is dedicated to London MET University students, enabling them to view past, present and future registered lectures. 
 
