@@ -1,5 +1,3 @@
-![alt text](https://github.com/lankab/FC6P01-student-app/blob/master/FC6P01_student_app.gif "Functionalities demo")
-
 # Introduction
 This project is one of two Android apps developed as part of my final project. This app is dedicated to London MET University students, enabling them to view past, present and future registered lectures. 
 
@@ -25,3 +23,5 @@ This process needs to be executed prior to students being able to register their
 * com.google.code.gson:gson:2.6.2
 * com.squareup.retrofit2:retrofit:2.0.2
 * com.squareup.retrofit2:converter-gson:2.0.2
+
+[![Alt text](https://www.youtube.com/watch?v=2skFCzy_1wc)](https://www.youtube.com/watch?v=VID)
