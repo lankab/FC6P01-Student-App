@@ -1,4 +1,6 @@
 # Introduction
+https://www.youtube.com/watch?v=2skFCzy_1wc
+# Introduction
 This project is one of two Android apps developed as part of my final project. This app is dedicated to London MET University students, enabling them to view past, present and future registered lectures. 
 
 Students can also register their attendance for lectures in progress given that their smartphones' Bluetooth addresses running the app at the time have been scanned and inserted into a dedicated 'ScannedBluetoothAddresses' database table  by the second app. 
@@ -23,5 +25,3 @@ This process needs to be executed prior to students being able to register their
 * com.google.code.gson:gson:2.6.2
 * com.squareup.retrofit2:retrofit:2.0.2
 * com.squareup.retrofit2:converter-gson:2.0.2
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2skFCzy_1wc/0.jpg)](https://www.youtube.com/watch?v=2skFCzy_1wc)
