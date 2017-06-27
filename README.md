@@ -1,3 +1,8 @@
+Inline-style: 
+![alt text](https://github.com/lankab/FC6P01-student-app/blob/master/FC6P01_student_app.gif "Functionalities demo")
+
+Reference-style: 
+![alt text][logo]
 # Introduction
 This project is one of two Android apps developed as part of my final project. This app is dedicated to London MET University students, enabling them to view past, present and future registered lectures. 
 
