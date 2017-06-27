@@ -24,4 +24,4 @@ This process needs to be executed prior to students being able to register their
 * com.squareup.retrofit2:retrofit:2.0.2
 * com.squareup.retrofit2:converter-gson:2.0.2
 
-[![Alt text](https://www.youtube.com/watch?v=2skFCzy_1wc)](https://www.youtube.com/watch?v=2skFCzy_1wc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2skFCzy_1wc/0.jpg)](https://www.youtube.com/watch?v=2skFCzy_1wc)
